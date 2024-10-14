@@ -1,0 +1,3 @@
+P004, The Flash Mount, B002, C002, 2020, 4567.0
+P003, Mountain mons, B001, C001, 2022, 3456.0
+P002, Monster Hybrid, B002, C002, 2023, 2345.0
